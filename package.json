@@ -1,0 +1,12 @@
+echo {^
+  "name": "my-typebot",^
+  "version": "1.0.0",^
+  "description": "Typebot project",^
+  "main": "index.js",^
+  "scripts": {^
+    "start": "node index.js"^
+  },^
+  "dependencies": {^
+    "express": "^4.17.1"^
+  }^
+} > package.json
